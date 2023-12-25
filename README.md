@@ -19,21 +19,33 @@
 <img src="https://github.com/ToyirovDev/Tiny_craft/blob/main/Assets/screenshots/3.png">
 
 ## KEYS:
-	* WASD	- Player movement.
-	* SPACE	- Jump.
-	* F	- Hold 'F' ko'rish uchun fps.
-	* R	- Press 'R' for respawn.
-	* M	- Press 'M' for mute backmus.
-	* G	- Press 'G' for unfullscreen.
+	WASD	- Player movement.
+	SPACE	- Jump.
+	F	- Hold 'F' ko'rish uchun fps.
+	R	- Press 'R' for respawn.
+	M	- Press 'M' for mute backmus.
+	G	- Press 'G' for unfullscreen.
 	
-	* 1	- Grass block.
-	* 2	- Stone block.
-	* 3	- Brick block.
-	* 4	- Dirt block.
-	* 5	- Wood block.
-	* 6	- Glass block.
-	* 7	- Obsidan block.
-	* 8	- Ice block.
-	* 9	- Sand block.
-	* 0	- White stone block.
+	1	- Grass block.
+	2	- Stone block.
+	3	- Brick block.
+	4	- Dirt block.
+	5	- Wood block.
+	6	- Glass block.
+	7	- Obsidan block.
+	8	- Ice block.
+	9	- Sand block.
+	0	- White stone block.
+
+ ## Usage:
+ First you need python. You must have both 'pip' and 'git' installed. You can also just download the repository if you don't have git.
+
+ Clone repository. <p>
+ 		git clone https://github.com/ToyirovDev/Tiny_craft.git <p>
+
+ Install requirements. <p>
+ 		pip install -r requirements.txt <p>
+
+
+
 	
