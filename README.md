@@ -15,8 +15,8 @@
 
 ## SCREENSHOTS:
 <img src="https://github.com/ToyirovDev/Tiny_craft/blob/main/Assets/screenshots/1.png">
-<img src="https://github.com/ToyirovDev/Tiny_craft/main/Assets/screenshots/2.png">
-<img src="https://github.com/ToyirovDev/Tiny_craft/main/Assets/screenshots/3.png">
+<img src="https://github.com/ToyirovDev/Tiny_craft/blob/main/Assets/screenshots/2.png">
+<img src="https://github.com/ToyirovDev/Tiny_craft/blob/main/Assets/screenshots/3.png">
 
 ## KEYS:
 	* WASD	- Player movement.
