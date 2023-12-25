@@ -40,16 +40,23 @@
  ## Usage:
  First you need python. You must have both 'pip' and 'git' installed. You can also just download the repository if you don't have git.
 
- Clone repository. <p>
+ <b>Clone repository.</b> <p>
  ```python
  git clone https://github.com/ToyirovDev/Tiny_craft.git 
 ```
 <p>
 
- Install requirements. <p>
+ <b>Install requirements.</b> <p>
 ```python
  pip install -r requirements.txt 
 ```
+<p>
+
+<b>Run game. </b> <p>
+```python
+ python Tiny-craft.py
+```
+
 
 
 
