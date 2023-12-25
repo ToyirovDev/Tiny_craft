@@ -14,9 +14,9 @@
 * "The game is always will be update!"
 
 ## SCREENSHOTS:
-<img src="https://github.com/UnamSanctam/UnamBinder/blob/master/1.png?raw=true">
-<img src="https://github.com/UnamSanctam/UnamBinder/blob/master/2.png?raw=true">
-<img src="https://github.com/UnamSanctam/UnamBinder/blob/master/3.png?raw=true">
+<img src="https://github.com/ToyirovDev/Tiny_craft/blob/main/Assets/screenshots/1.png?raw=true">
+<img src="https://github.com/ToyirovDev/Tiny_craft/main/Assets/screenshots/2.png?raw=true">
+<img src="https://github.com/ToyirovDev/Tiny_craft/main/Assets/screenshots/3.png?raw=true">
 
 ## KEYS:
 	* WASD	- Player movement.
