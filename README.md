@@ -1,5 +1,5 @@
 # ◼️ TINY-CRAFT 1 ◼️ 
-![Build](../../workflows/Build/badge.svg)
+![Build](badge.svg)
 
 ## DESCRIPTION:
 * Tiny-craft is a firstperson game created by python's ursina library. This game is similar to Minecraft, but a smaller version.
